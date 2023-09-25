@@ -1,5 +1,5 @@
 package com.mycompany.virtual_class_room;//Main package
-
+//Look at documenation for more help
 //importing all other packages: 3 different packages for student,classroom,
 //and Assignment, Main function is created to modularize the code
 import Classroom.Classroom;
